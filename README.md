@@ -29,8 +29,8 @@ List of packages currently in existence for NuLink:
 | Name |  Description |  Status |
 | ---------|--------- |--------- |
 | **NuLink core** |
-| [`nulink-core`](//github.com/NuLink-network/nulink-core) | nulink-core entry point | in development |  
-| [`nuLink-watcher`](//github.com/NuLink-network/nuLink-watcher) | NuLink watcher network for relaying the information from Ethereum to other blockchain system. | in development |  
+| [`nulink-core`](//github.com/NuLink-network/nulink-core) | nulink core library entry point | in development |  
+| [`nuLink-watcher`](//github.com/NuLink-network/nuLink-watcher) | nulink watcher network for relaying the information from Ethereum to other blockchain system. | in development |  
 | **NuLink bridge** |
 | [`nulink-chain`](//github.com/NuLink-network/nulink-chain) | nulink pallet for bridging the NuCypher Network from Ethereum to the Polkadot Ecosystem.  | in development |  
 | [`nulink-heco`](//github.com/NuLink-network/nulink-heco) | nulink contract for bridging the NuCypher Network from Ethereum to the Heco Ecosystem. | in development |  
