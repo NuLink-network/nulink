@@ -1,10 +1,15 @@
 # nulink-core
 
+
 <p align="center">
   <a href="https://www.nulink.org/"><img src="https://github.com/NuLink-network/nulink/blob/94c5538a5fdc25e7d4391f4f2e4af60b3c480fc1/logo/nulink-bg-1.png" width=40%  /></a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/NuLink-network"><img src="https://img.shields.io/badge/project-nulink_network-yellow.svg?style=flat-square" /></a>
+  <a href="http://nulink.org/"><img src="https://img.shields.io/badge/made%20by-NuLink%20Foundation-blue.svg?style=flat-square" /></a>
+  <a href="https://github.com/NuLink-network/nulink-core"><img src="https://img.shields.io/badge/Playground-nulink_core-brightgreen?logo=Parity%20Substrate" /></a>
+</p>
 
 # Table of Contents
 
@@ -30,7 +35,7 @@ List of packages currently in existence for NuLink:
 | ---------|--------- |--------- |
 | **NuLink core** |
 | [`nulink-core`](//github.com/NuLink-network/nulink-core) | nulink core library entry point | in development |  
-| [`nuLink-watcher`](//github.com/NuLink-network/nuLink-watcher) | nulink watcher network for relaying the information from Ethereum to other blockchain system. | in development |  
+| [`nulink-watcher`](//github.com/NuLink-network/nulink-watcher) | nulink watcher network for relaying the information from Ethereum to other blockchain system. | in development |  
 | **NuLink bridge** |
 | [`nulink-chain`](//github.com/NuLink-network/nulink-chain) | nulink pallet for bridging the NuCypher Network from Ethereum to the Polkadot Ecosystem.  | in development |  
 | [`nulink-heco`](//github.com/NuLink-network/nulink-heco) | nulink contract for bridging the NuCypher Network from Ethereum to the Heco Ecosystem. | in development |  
