@@ -37,10 +37,11 @@ List of packages currently in existence for NuLink:
 | [`nulink-core`](//github.com/NuLink-network/nulink-core) | nulink core library entry point | in development |  
 | [`nulink-watcher`](//github.com/NuLink-network/nulink-watcher) | nulink watcher network for relaying the information from Ethereum to other blockchain system. | in development |  
 | **NuLink bridge** |
-| [`nulink-chain`](//github.com/NuLink-network/nulink-chain) | nulink pallet for bridging the NuCypher Network from Ethereum to the Polkadot Ecosystem.  | in development |  
-| [`nulink-heco`](//github.com/NuLink-network/nulink-heco) | nulink contract for bridging the NuCypher Network from Ethereum to the Heco Ecosystem. | in development |  
-| [`nulink-platon`](//github.com/NuLink-network/nulink-platon) | nulink contract for bridging the NuCypher Network from Ethereum to the Platon Ecosystem. | in development |  
-
+| [`nulink-chain`](//github.com/NuLink-network/nulink-chain) | nulink pallet for bridging the Threshold(Nucypher) Network from Ethereum to the Polkadot Ecosystem.  | in development |  
+| [`nulink-heco`](//github.com/NuLink-network/nulink-heco) | nulink contract for bridging the Threshold(Nucypher) Network from Ethereum to the Heco Ecosystem. | in development |  
+| [`nulink-platon`](//github.com/NuLink-network/nulink-platon) | nulink contract for bridging the Threshold(Nucypher) Network from Ethereum to the Platon Ecosystem. | in development |  
+| [`nulink-solana`](//github.com/NuLink-network/nulink-solana) | nulink contract for bridging the Threshold(Nucypher) Network from Ethereum to the Solana Ecosystem. | in development | 
+| [`nulink-near`](//github.com/NuLink-network/nulink-near) | nulink contract for bridging the Threshold(Nucypher) Network from Ethereum to the Near Ecosystem. | in development | 
 
 ## Discussion
 
