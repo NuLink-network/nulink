@@ -35,7 +35,11 @@ List of packages currently in existence for NuLink:
 | ---------|--------- |--------- |
 | **NuLink core** |
 | [`nulink-core`](//github.com/NuLink-network/nulink-core) | nulink core library entry point | in development |  
-| [`nulink-watcher`](//github.com/NuLink-network/nulink-watcher) | nulink watcher network for relaying the information from Ethereum to other blockchain system. | in development |  
+| [`nulink-watcher`](//github.com/NuLink-network/nulink-watcher) | nulink watcher is a relayer network for relaying the information from Ethereum to other blockchain system. | in development |  
+| [`nulink-web`](//github.com/NuLink-network/nulink-web) | nulink-web is a front-end page that provides an entrance to display all functions of Nulink.. | in development |  
+| [`nulink--agent-js`](//github.com/NuLink-network/nulink-agent-js) | nulink-agent-js is a browser plug-in that provides file encryption, file sharing and authorization functions. | in development |  
+| [`nulink-node`](//github.com/NuLink-network/nulink-node) | nulink-node is a background service that supports nulink-web front-end pages. | in development |  
+| [`nulink-sdk`](//github.com/NuLink-network/nulink-sdk) | nulink-sdk is a software development kit that supports nulink privacy features. | in development |  
 | **NuLink bridge** |
 | [`nulink-chain`](//github.com/NuLink-network/nulink-chain) | nulink pallet for bridging the Threshold(Nucypher) Network from Ethereum to the Polkadot Ecosystem.  | in development |  
 | [`nulink-heco`](//github.com/NuLink-network/nulink-heco) | nulink contract for bridging the Threshold(Nucypher) Network from Ethereum to the Heco Ecosystem. | in development |  
