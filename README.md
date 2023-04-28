@@ -13,9 +13,12 @@
 
 # Table of Contents
 
-- [Background](#background)
-- [Development](#development)
-- [Community Discussion](#discussion)
+- [nulink](#nulink)
+- [Table of Contents](#table-of-contents)
+  - [Background](#background)
+  - [Development](#development)
+    - [Packages](#packages)
+  - [Discussion](#discussion)
 
 ## Background
 
@@ -36,18 +39,22 @@ List of packages currently in existence for NuLink:
 | **NuLink core** |
 | [`nulink`](//github.com/NuLink-network/nulink) | nulink core library entry point | Yes |
 | [`nulink-core`](//github.com/NuLink-network/nulink-core) | nulink core is the core library of the NuLink network.  | Yes |
-| [`nulink-documentation`](//github.com/NuLink-network/docs) | nulink documentation is the development documentation of the NuLink network.  | Yes |
-| [`nulink-watcher`](//github.com/NuLink-network/nulink-watcher) | nulink watcher is a relayer network for relaying the information from Ethereum to other blockchain system. | Yes |
-| [`nulink-web`](//github.com/NuLink-network/nulink-web) | nulink-web is a front-end page that provides an entrance to display all functions of Nulink.. | No |
-| [`nulink--agent`](//github.com/NuLink-network/nulink-agent-js) | nulink-agent is a browser plug-in that provides file encryption, file sharing and authorization functions. | No |
-| [`nulink-node`](//github.com/NuLink-network/nulink-node) | nulink-node is a background service that supports nulink-web front-end pages. | No |
+| [`nulink-agent`](//github.com/NuLink-network/nulink-agent-js) | nulink-agent is a browser plug-in that provides file encryption, file sharing and authorization functions. | No |
+| [`nulink-web-agent-access-sdk`](//github.com/NuLink-network/nulink-web-agent-access-sdk) | the sdk will help users use nulink agent service on the web. | No |
 | [`nulink-sdk`](//github.com/NuLink-network/nulink-sdk) | nulink-sdk is a software development kit that supports nulink privacy features. | Yes |
+| [`nulink-ts`](//github.com/NuLink-network/nulink-ts) | the sdk will help users use nulink service on the web. | No |
+| [`nulink-documentation`](//github.com/NuLink-network/docs) | nulink documentation is the development documentation of the NuLink network.  | Yes |
+| **NuLink tools** |
+| [`nulink-watcher`](//github.com/NuLink-network/nulink-watcher) | nulink watcher is a relayer network for relaying the information from Ethereum to other blockchain system. | Yes |
+| [`nulink-web`](//github.com/NuLink-network/nulink-web) | nulink-web is a front-end page that provides an entrance to display all functions of Nulink. | No |
+| [`nulink-node`](//github.com/NuLink-network/nulink-node) | nulink-node is a background service that supports nulink-web front-end pages. | No |
+| [`nulink-agent-web`](//github.com/NuLink-network/nulink-agent-web) | nulink-agent-web is a front-end page that provides an entrance to display all functions of the agent. | No |
+| [`nulink-scaner`](//github.com/NuLink-network/nulink-scaner) | the nulink-scaner is a service that monitors data changes on the blockchain. | No |
 | **NuLink bridge** |
 | [`nulink-chain`](//github.com/NuLink-network/nulink-chain) | nulink pallet for bridging the Threshold(Nucypher) Network from Ethereum to the Polkadot Ecosystem.  | Yes |
 | [`nulink-heco`](//github.com/NuLink-network/nulink-heco) | nulink contract for bridging the Threshold(Nucypher) Network from Ethereum to the Heco Ecosystem. | Yes |
 | [`nulink-platon`](//github.com/NuLink-network/nulink-platon) | nulink contract for bridging the Threshold(Nucypher) Network from Ethereum to the Platon Ecosystem. | Yes |
-| [`nulink-solana`](//github.com/NuLink-network/nulink-solana) | nulink contract for bridging the Threshold(Nucypher) Network from Ethereum to the Solana Ecosystem. | Yes |
-| [`nulink-near`](//github.com/NuLink-network/nulink-near) | nulink contract for bridging the Threshold(Nucypher) Network from Ethereum to the Near Ecosystem. | Yes |
+
 
 ## Discussion
 
